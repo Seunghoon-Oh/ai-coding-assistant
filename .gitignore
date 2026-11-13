@@ -1,0 +1,3 @@
+# Run-time folders dcode and the harness create in the working directory.
+.deepagents/
+.langgraph_api/
